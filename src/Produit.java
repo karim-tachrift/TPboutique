@@ -63,7 +63,7 @@ class ProduitElectronique extends Produit {
     }
 }
 
-// ProduitAlimentaire
+// Classes ProduitAlimentaire
 class ProduitAlimentaire extends Produit {
     private LocalDate dateExpiration;
 
@@ -81,7 +81,7 @@ class ProduitAlimentaire extends Produit {
     }
 }
 
-// ProduitBoisson
+// Classes ProduitBoisson
 class ProduitBoisson extends Produit {
     private int quantite;
 
