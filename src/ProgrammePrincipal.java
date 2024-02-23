@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 
+        //karim tachrift
 public class ProgrammePrincipal {
     public static void main(String[] args) {
         // Je Remplit la boutique
@@ -21,7 +22,7 @@ public class ProgrammePrincipal {
         monPanier.ajouterProduit(produitAlimentaire);
         monPanier.ajouterProduit(produitBoisson);
 
-        // Ici j'affiche le prix total du panierrrrrr
+        // Ici j'affiche le prix total du panier
         System.out.println("Prix total du panier : " + monPanier.prixTotalPanier() + " euros");
     }
 }
