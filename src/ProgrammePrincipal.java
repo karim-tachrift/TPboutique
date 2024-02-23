@@ -21,7 +21,7 @@ public class ProgrammePrincipal {
         monPanier.ajouterProduit(produitAlimentaire);
         monPanier.ajouterProduit(produitBoisson);
 
-        // Ici j'affiche le prix total du panier
+        // Ici j'affiche le prix total du panierrrrrr
         System.out.println("Prix total du panier : " + monPanier.prixTotalPanier() + " euros");
     }
 }
